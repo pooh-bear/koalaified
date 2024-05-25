@@ -25,5 +25,14 @@
   "scripts": {
     "build": "rollup -c",
     "test": "mocha --reporter spec"
-  }
+  },
+  "keywords": [
+    "friendly",
+    "name",
+    "id",
+    "generator",
+    "australian",
+    "australia",
+    "animals"
+  ]
 }

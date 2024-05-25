@@ -6,6 +6,10 @@ Add to your project:
 ```js
 yarn add koalaified
 ```  
+or
+```js
+npm install koalaified
+```
 
 ## Usage
 
@@ -34,6 +38,21 @@ const friendlyName = generate({
     adjectiveCount: 2, // number, default: 1
     seperator: '_', // string, default: -
 });
+```
+
+## Develop
+### Install
+```js
+yarn --dev
+```
+### Build
+```js
+yarn build
+```
+
+### Test
+```js
+yarn test
 ```
 
 ## Contributions
