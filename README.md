@@ -1,6 +1,8 @@
 # Koalaified
 ## A unique friendly name ID generator with Australian animals
 
+![NPM Version](https://img.shields.io/npm/v/koalaified)
+
 ## Install
 Add to your project:
 ```js
