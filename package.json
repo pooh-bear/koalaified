@@ -1,0 +1,29 @@
+{
+  "name": "koalaified",
+  "version": "1.0.0",
+  "description": "A unique friendly name ID generator with Australian animals",
+  "type": "module",
+  "main": "dist/bundle.cjs.js",
+  "module": "dist/bundle.esm.js",
+  "types": "dist/index.d.ts",
+  "repository": "https://github.com/pooh-bear/koalaified",
+  "author": "Gabe Palomares <dev@gabe.pw>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^25.0.8",
+    "@rollup/plugin-node-resolve": "^15.2.3",
+    "@types/node": "^20.12.12",
+    "add": "^2.0.6",
+    "chai": "^5.1.1",
+    "mocha": "^10.4.0",
+    "rollup": "^4.18.0",
+    "rollup-plugin-typescript2": "^0.36.0",
+    "typescript": "^5.4.5",
+    "yarn": "^1.22.22"
+  },
+  "scripts": {
+    "build": "rollup -c",
+    "test": "mocha --reporter spec"
+  }
+}
