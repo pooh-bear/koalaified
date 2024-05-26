@@ -1,5 +1,5 @@
 # Koalaified
-## A unique friendly name ID generator with Australian animals
+## A unique friendly name ID generator for JavaScript, with Australian animals
 ![NPM Version](https://img.shields.io/npm/v/koalaified)  
 Generate unique IDs like `distracted-corroboree-frog`, `perceptive-pacific-heron`, `uncreative-musk-lorikeet`, or `unprofessional-cockatoo`. They're identifiers that's uniquely Aussie; they definitely stand out!
 
