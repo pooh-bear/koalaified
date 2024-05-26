@@ -19,5 +19,6 @@ jobs:
           scope: '@pooh-bear'
       - run: |
           sed -i 's+"name": ".*+"name": "@${{ github.repository }}",+gI' ./package.json
+          npm publish
         env:
           NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
