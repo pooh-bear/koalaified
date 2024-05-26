@@ -1,6 +1,6 @@
 {
   "name": "koalaified",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A unique friendly name ID generator with Australian animals",
   "type": "module",
   "main": "dist/bundle.cjs",
