@@ -5,11 +5,11 @@ on:
   pull_request:
     branches: [main]
 jobs:
-  build:
+  test:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Install Dependencies
+      - name: Install dependencies
         run: yarn
-      - name: Build app
+      - name: Run tests
         run: yarn test
