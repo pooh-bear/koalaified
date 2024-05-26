@@ -1,7 +1,11 @@
 # Koalaified
 ## A unique friendly name ID generator for JavaScript, with Australian animals
-![NPM Version](https://img.shields.io/npm/v/koalaified)  
 Generate unique IDs like `distracted-corroboree-frog`, `perceptive-pacific-heron`, `uncreative-musk-lorikeet`, or `unprofessional-cockatoo`. They're identifiers that's uniquely Aussie; they definitely stand out!
+
+[![NPM Version](https://img.shields.io/npm/v/koalaified)](https://www.npmjs.com/package/koalaified) 
+[![Validate tests](https://github.com/pooh-bear/koalaified/actions/workflows/test.yml/badge.svg)](https://github.com/pooh-bear/koalaified/actions/workflows/test.yml) 
+[![Release to NPM](https://github.com/pooh-bear/koalaified/actions/workflows/npm.yml/badge.svg)](https://github.com/pooh-bear/koalaified/actions/workflows/npm.yml) 
+[![Release to Github Packages](https://github.com/pooh-bear/koalaified/actions/workflows/gpr.yml/badge.svg)](https://github.com/pooh-bear/koalaified/actions/workflows/gpr.yml)
 
 ## Install
 Add to your project:
